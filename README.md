@@ -8,4 +8,5 @@ Base of new brain
 路演完了马上补~😁
 
 查看[《基地行动手册1.0》](https://github.com/wisdomqin/base-of-new-brain/blob/master/Action%20Manual%201.0.md)
+
 [招募队员、参与项目](https://github.com/wisdomqin/base-of-new-brain/issues)吧
