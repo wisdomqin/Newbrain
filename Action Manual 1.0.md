@@ -102,4 +102,4 @@
 ```
 ## changelog
 - 0416 wisdomqin完成初稿
-- 0420 wisdomqin增加内容
+- 0420 wisdomqin增加《情景学习：合法的边缘性参与》相关内容
