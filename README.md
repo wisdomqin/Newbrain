@@ -3,10 +3,42 @@ Base of new brain
 
 本项目是开智学堂“信息分析”课程的结业作业成果。
 
+## 做什么
+建立一个学习共同体，让大家可以在这里阶段性聚在一起完成某个主题的学习。
+“共同学习”并非简单的多个人一起学习，基于“社会性学习”理论研究，我们提供了一份共同学习的 [《行动手册》](https://github.com/wisdomqin/base-of-new-brain/blob/edit-readme/Action%20Manual%201.0.md)
+
+## 为什么做
+发起这个学习共同体，源自在开智“信息分析”课程完成结课作业时的一次共同学习体验。先来看看我们小组成员在这次学习过程中的切身感受。
+
+覃同学：
+>这次共同学习的过程中经历了非常多次争论和摇摆，很多次都被怼得非常酸爽😂但也正是这些针锋相对的时刻，为了给自己找到充分的论据，会获得非常强大的驱动力，更深入些、再深入些地了解这些理论。更棒的是，有时候自己先前的认知的确是错的。这些都是一个人学习收获不到的...
+
+潘同学：
+>从personallearning到sociallearning，幂律律分布、分布式认知...这些概念，不不断刷新着曾经作为近20年“学生”的三观...
+
+李同学：
+>破除偏见迷思，重建行为、认知。学习的过程，学习的环境，学习的结构及阶段性推翻、再复盘的自我设计……这次突破惯性的作业过程，已经引爆一串深不可测的思考...
+
+Jack同学：
+>开始就迷茫，过程更反复。但很高兴可以跟年龄、知识背景、个性都很不一样的伙伴们，一起去学海迷航...
+
+王同学：
+>信息太多不知如何组织逻辑？文字干瘪观众提不起兴趣？让论证分析和认知写作课程来的更猛烈些吧！（已鉴定为开智粉的广告）
+
+大家都从过程中获益良多，所以希望将这样的学习方式常态化，当我们在未来的工作生活中碰到感兴趣的话题时，仍能再次集结，开启新的征程。
+
+## 怎么做
+- 在issue区[发起主题学习招募或报名加入已有项目](https://github.com/wisdomqin/base-of-new-brain/issues)
+  - 所有项目发起时应当设定一个阶段性目标，有阶段性的作品产出（PPT、视频、文章甚至产品等） ，主题学习过程可以设定为多个非连续的学习阶段
+  - 完成阶段性学习后，有新的感兴趣的同学仍可以继续加入并在现有基础上持续贡献
+- 所有项目组均需设立记录本组学习探索中间过程的空间（形式不限），方便后续感兴趣的新同学可以快速get已有进展，并在现有基础上继续贡献。
+  - 参考案例：[newbrain](https://github.com/wisdomqin/newbrain)、 [Value-investing](https://github.com/AIViking/Value-investing)、 [IA-AI](https://github.com/totalmind/IA-AI)
+
+## 项目组列表
+
+1. [管理文化发展-最小全局认识](https://github.com/wisdomqin/base-of-new-brain/issues/3)
+
 ![](https://ws1.sinaimg.cn/large/006tNc79ly1g25onefj0gj315f0lc7b7.jpg)
 
-路演完了马上补~😁
-
-查看[《基地行动手册1.0》](https://github.com/wisdomqin/base-of-new-brain/blob/master/Action%20Manual%201.0.md)
-
-[招募队员、参与项目](https://github.com/wisdomqin/base-of-new-brain/issues)
+## Changelog
+- 0508wisdomqin完成第一版
