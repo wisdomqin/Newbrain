@@ -5,7 +5,7 @@ Base of new brain
 
 ## 做什么
 建立一个学习共同体，让大家可以在这里阶段性聚在一起完成某个主题的学习。
-“共同学习”并非简单的多个人一起学习，基于“社会性学习”理论研究，我们提供了一份共同学习的 [《行动手册》](https://github.com/wisdomqin/base-of-new-brain/blob/edit-readme/Action%20Manual%201.0.md)
+“共同学习”并非简单的多个人一起学习，基于“社会性学习”理论研究，我们提供了一份共同学习的 [《行动手册》](https://github.com/wisdomqin/base-of-new-brain/blob/master/Action%20Manual%201.0.md)
 
 ## 为什么做
 发起这个学习共同体，源自在开智“信息分析”课程完成结课作业时的一次共同学习体验。先来看看我们小组成员在这次学习过程中的切身感受。
