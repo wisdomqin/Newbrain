@@ -39,3 +39,6 @@ Jack同学：
 1. [管理文化发展-最小全局认识](https://github.com/wisdomqin/base-of-new-brain/issues/3)
 
 ![](https://ws1.sinaimg.cn/large/006tNc79ly1g25onefj0gj315f0lc7b7.jpg)
+
+## Changelog
+- 0508wisdomqin完成第一版
