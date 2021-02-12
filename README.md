@@ -13,9 +13,9 @@
 5. 直接在[Topic list](https://github.com/wisdomqin/base-of-new-brain/tree/master/Toptic%20list)文件夹下创建该主题的主页文件
 
 延伸阅读：
-[工作谈018：元认知学习法（3）](https://mp.weixin.qq.com/s/G7DqOq3Vuq_o2GZ1wtdP7A) 
-[阳志平：藏书万卷背后的读书法](https://mp.weixin.qq.com/s/N8oXkXIbLdsq-NSpq6R4aA)
-[跨年答疑（1）：学习十二问](https://mp.weixin.qq.com/s/nr7oCd_aFj2JdfYutcZ-YQ)
+- [工作谈018：元认知学习法（3）](https://mp.weixin.qq.com/s/G7DqOq3Vuq_o2GZ1wtdP7A) 
+- [阳志平：藏书万卷背后的读书法](https://mp.weixin.qq.com/s/N8oXkXIbLdsq-NSpq6R4aA)
+- [跨年答疑（1）：学习十二问](https://mp.weixin.qq.com/s/nr7oCd_aFj2JdfYutcZ-YQ)
 
 ChangeLog
 
